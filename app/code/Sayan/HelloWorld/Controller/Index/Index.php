@@ -15,8 +15,8 @@ use Magento\Framework\App\Action\Context;
 use Magento\Framework\App\Action\Action as ActionController;
 
 /**
- * Class Manual
- * @package Born\ZonalPrices\Controller\Zipcode
+ * Class Index
+ * @package Sayan\HelloWorld\Controller\Index
  */
 class Index extends ActionController
 {
