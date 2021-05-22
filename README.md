@@ -1,0 +1,1 @@
+This repository is created for sharing free Magento 2 extensions with people who are learning or working with Magento 2 and are interested to play with codes. If you have any opinion to make this repository better, please let me know.
